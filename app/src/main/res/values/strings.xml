@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMEI Repair</string>
+    <string name="btn_check">IMEI چیک کرو</string>
+    <string name="btn_fix">Null IMEI درست کرو</string>
+    <string name="btn_write">موبائل کے بیک والا IMEI دوبارہ لکھو</string>
+</resources>
